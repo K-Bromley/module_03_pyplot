@@ -9,3 +9,15 @@ Each question is worth two points:
 
 * Data plotted as described by the question (1 pt)
 * Plot contains required elements (title, axis labels, axis titles, legend if required)
+
+## Dependencies Used
+```bash
+from collections import Counter
+from random import randint
+import matplotlib.pyplot as plt
+```
+
+## Showing Plots
+``` bash
+plt.show
+```
